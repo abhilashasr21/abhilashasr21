@@ -65,12 +65,35 @@ I actively use and promote **AI-assisted development** in day-to-day engineering
 
 ---
 
-## Certifications & Continuous Learning
+## Certifications
 
-I continuously invest in cloud and AI capability building, including Microsoft Applied Skills and Copilot-related learning paths.
+### Active Certifications
+- **Microsoft Certified: Azure AI Engineer Associate** (Earned: May 2026, Expires: May 2027)
+- **Microsoft Certified: Azure Administrator Associate** (Earned: Aug 2024, Expires: Aug 2027)
+- **GitHub Certified: Agentic AI Developer** (Earned: Oct 2026, Expires: Oct 2027)
+- **GitHub Copilot** (Earned: Jan 2026, Expires: Jan 2028)
+- **Microsoft Certified: Security, Compliance, and Identity Fundamentals** (Earned: Apr 2026)
+- **Microsoft Certified: Azure AI Fundamentals** (Earned: Jun 2023)
+- **Microsoft Certified: Azure Fundamentals** (Earned: Oct 2020)
+- **Microsoft Specialist: Developing Microsoft Azure Solutions** (Earned: Jun 2017)
+- **Microsoft Certified Professional** (Earned: Jun 2017)
 
-- Microsoft Applied Skills (AI-assisted development / Copilot tracks)
-- Ongoing upskilling in cloud architecture, automation, and AI engineering practices
+### Historical Certification
+- **Microsoft Certified: Azure Solutions Architect Expert** (Earned: Jan 2021, Expired: Jan 2025)
+
+## Microsoft Applied Skills
+
+- **Microsoft Applied Skills: Accelerate AI-assisted development by using GitHub Copilot** (Awarded: Nov 2026)
+- **Microsoft Applied Skills: Resolve GitHub issues by using GitHub Copilot** (Awarded: Nov 2026)
+- **Microsoft Applied Skills: Get started developing agents in Microsoft Foundry** (Awarded: Sep 2026)
+- **Microsoft Applied Skills: Get started with Azure management tasks** (Awarded: Jul 2026)
+
+## Credential Snapshot
+
+- **Active Certifications:** 9  
+- **Historical Certifications:** 1  
+- **Exams Passed:** 10  
+- **Applied Skills Credentials:** 4
 
 ---
 
