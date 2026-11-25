@@ -2,7 +2,6 @@
 
 **Technical Consultant at Microsoft**  
 Azure | Terraform | DevOps | AI-assisted Engineering | Cloud Transformation  
-📍 Bengaluru, Karnataka, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/srivastavaabhilasha/)
 
 ---
