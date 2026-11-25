@@ -1,4 +1,4 @@
-# Hi, I'm Abhilasha Srivastava 👋
+# Hi, I'm Abhilasha Srivastava
 
 **Technical Consultant at Microsoft**  
 Azure | Terraform | DevOps | AI-assisted Engineering | Cloud Transformation  
