@@ -66,16 +66,6 @@ I actively use and promote **AI-assisted development** in day-to-day engineering
 
 ---
 
-## Featured Repositories
-
-| Repository | Focus Area | Notes |
-|---|---|---|
-| [`fnz-test-code`](https://github.com/abhilashasr21/fnz-test-code) | ALZ / Infra validation | Test and implementation work related to Azure landing zone concepts |
-| [`llm-advisor-model`](https://github.com/abhilashasr21/llm-advisor-model) | AI / Python | AI-oriented experimentation and solution development |
-| [`terraform-azurerm-avm-ptn-confidential-compute`](https://github.com/Azure/terraform-azurerm-avm-ptn-confidential-compute) | Terraform / Azure Verified Modules | Contribution to Azure confidential compute infrastructure patterns |
-
----
-
 ## Certifications & Continuous Learning
 
 I continuously invest in cloud and AI capability building, including Microsoft Applied Skills and Copilot-related learning paths.
